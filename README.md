@@ -13,8 +13,9 @@ The interface allows users to define:
 2. Urgency of the task using an Urgency Indicator
 
 Based on these inputs, the system intelligently recommends the best-fit processing route:
-A. On-Board (Ultra-Fast) – For time-critical insights using edge processing
-B. On-Ground (Standard) – For routine or cost-sensitive use cases
+
+- On-Board (Ultra-Fast) – For time-critical insights using edge processing
+- On-Ground (Standard) – For routine or cost-sensitive use cases
 
 This concept bridges the gap between full real-time analytics and delayed batch processing, offering flexibility tailored to user needs.
 
