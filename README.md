@@ -4,10 +4,10 @@
 A conceptual prototype showcasing a hybrid solution that combines on-board (edge) and ground-based processing to deliver medium-latency insights. Users can set urgency, AOI, and frequency to choose between ultra-fast (on-board) or cost-efficient (on-ground) options
 Product demo - https://preview--hybrid-workflow-demo.lovable.app/
 
-Overview
+## Overview
 This mock-up represents the idea of designing a hybrid product offering for customers who require medium-latency insights — a balance between real-time speed and cost efficiency.
 
-Concept
+## Concept
 The interface allows users to define:
 1. Area of Interest (AOI) and Task Frequency
 2. Urgency of the task using an Urgency Indicator
@@ -24,5 +24,5 @@ This concept bridges the gap between full real-time analytics and delayed batch 
 - Smart recommendations based on business-case priorities
 - Visualizes how hybrid delivery optimizes both speed and cost
 
-Goal
+## Goal
 To illustrate how hybrid architecture (Edge + Cloud) can optimize both response time and operational cost, empowering customers to define their own balance between speed and efficiency.
