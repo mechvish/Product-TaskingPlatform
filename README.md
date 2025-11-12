@@ -26,4 +26,4 @@ This concept bridges the gap between full real-time analytics and delayed batch 
 - Visualizes how hybrid delivery optimizes both speed and cost
 
 ## Goal
-To illustrate how hybrid architecture (Edge + Cloud) can optimize both response time and operational cost, empowering customers to define their own balance between speed and efficiency.
+To illustrate how hybrid architecture (Edge + Ground) can automatically present the users with optimized response time, empowering them to define their own balance between speed and efficiency.
